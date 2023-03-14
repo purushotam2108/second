@@ -1,0 +1,8 @@
+1 intitializing git
+2 adding files to gitbash
+3 generating rsa key in gitbash
+4 performing commit and checcking status of added files
+5 initializing git gui  and creating repository
+6 analyzing difference between git show and git log
+7 branching and merging
+8 
